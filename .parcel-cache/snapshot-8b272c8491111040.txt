@@ -1,4 +1,22 @@
-5944
+5947
+94D:\react_projects\project1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133566029357658035 0
+72D:\react_projects\project1\node_modules\css-tree\cjs\tokenizer\types.cjs133566029381419125 0
+77D:\react_projects\project1\node_modules\caniuse-lite\data\features\pointer.js133566029395411653 0
+48D:\react_projects\project1\node_modules\get-port133566029357794094 1
+57D:\react_projects\project1\node_modules\@msgpackr-extract133566078191499899 1
+65D:\react_projects\project1\node_modules\@parcel\packager-wasm\src133566029358766745 1
+94D:\react_projects\project1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133566029374681293 0
+68D:\react_projects\project1\node_modules\@swc\helpers\cjs\_update.cjs133566029378191588 0
+39D:\react_projects\project1\package.json133566162767812805 0
+82D:\react_projects\project1\node_modules\caniuse-lite\data\features\input-search.js133566029391455900 0
+80D:\react_projects\project1\node_modules\csso\node_modules\mdn-data\l10n\css.json133566029361089775 0
+49D:\react_projects\project1\node_modules\@swc\core133566029365097285 1
+78D:\react_projects\project1\node_modules\css-tree\lib\definition-syntax\walk.js133566029387423567 0
+46D:\react_projects\project1\node_modules\@lezer133566029336807546 1
+82D:\react_projects\project1\node_modules\caniuse-lite\data\features\css3-tabsize.js133566029387242652 0
+89D:\react_projects\project1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133566029360201634 0
+31D:\react_projects\project1\dist133566163195659335 1
+37D:\react_projects\project1\.gitignore133566149196125409 0
 60D:\react_projects\project1\node_modules\csso\cjs\restructure133566029370911757 1
 82D:\react_projects\project1\node_modules\posthtml-parser\dist\location-tracker.d.ts133566029360368256 0
 80D:\react_projects\project1\node_modules\caniuse-lite\data\features\array-find.js133566029368994134 0
@@ -8,23 +26,6 @@
 100D:\react_projects\project1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\plugins.js133566029370471104 0
 52D:\react_projects\project1\node_modules\import-fresh133566029357704517 1
 57D:\react_projects\project1\node_modules\base-x\LICENSE.md133566029356748607 0
-94D:\react_projects\project1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133566029357658035 0
-72D:\react_projects\project1\node_modules\css-tree\cjs\tokenizer\types.cjs133566029381419125 0
-77D:\react_projects\project1\node_modules\caniuse-lite\data\features\pointer.js133566029395411653 0
-48D:\react_projects\project1\node_modules\get-port133566029357794094 1
-57D:\react_projects\project1\node_modules\@msgpackr-extract133566078191499899 1
-65D:\react_projects\project1\node_modules\@parcel\packager-wasm\src133566029358766745 1
-94D:\react_projects\project1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133566029374681293 0
-68D:\react_projects\project1\node_modules\@swc\helpers\cjs\_update.cjs133566029378191588 0
-39D:\react_projects\project1\package.json133566078191540148 0
-82D:\react_projects\project1\node_modules\caniuse-lite\data\features\input-search.js133566029391455900 0
-80D:\react_projects\project1\node_modules\csso\node_modules\mdn-data\l10n\css.json133566029361089775 0
-49D:\react_projects\project1\node_modules\@swc\core133566029365097285 1
-78D:\react_projects\project1\node_modules\css-tree\lib\definition-syntax\walk.js133566029387423567 0
-46D:\react_projects\project1\node_modules\@lezer133566029336807546 1
-82D:\react_projects\project1\node_modules\caniuse-lite\data\features\css3-tabsize.js133566029387242652 0
-89D:\react_projects\project1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133566029360201634 0
-31D:\react_projects\project1\dist133566078200938494 1
 93D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133566029385058473 0
 69D:\react_projects\project1\node_modules\semver\functions\satisfies.js133566029370562576 0
 67D:\react_projects\project1\node_modules\dom-serializer\package.json133566029359759158 0
@@ -55,11 +56,11 @@
 83D:\react_projects\project1\node_modules\@swc\helpers\_\_inherits_loose\package.json133566029387079783 0
 78D:\react_projects\project1\node_modules\scheduler\umd\scheduler.development.js133566077553152039 0
 51D:\react_projects\project1\node_modules\ansi-styles133566029357704517 1
-109D:\react_projects\project1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match-graph.js133566029377715810 0
-53D:\react_projects\project1\node_modules\lmdb\level.js133566029382049513 0
-62D:\react_projects\project1\node_modules\css-tree\dist\data.cjs133566029369186880 0
 74D:\react_projects\project1\node_modules\@parcel\namer-default\package.json133566029357635485 0
 74D:\react_projects\project1\node_modules\source-map-js\lib\binary-search.js133566029358217045 0
+62D:\react_projects\project1\node_modules\css-tree\dist\data.cjs133566029369186880 0
+109D:\react_projects\project1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match-graph.js133566029377715810 0
+53D:\react_projects\project1\node_modules\lmdb\level.js133566029382049513 0
 79D:\react_projects\project1\node_modules\css-tree\lib\syntax\config\generator.js133566029384676010 0
 114D:\react_projects\project1\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133566029357994527 0
 63D:\react_projects\project1\node_modules\parse-json\package.json133566029356557128 0
@@ -590,7 +591,6 @@
 111D:\react_projects\project1\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts133566029374395325 0
 76D:\react_projects\project1\node_modules\@parcel\optimizer-image\package.json133566029356797257 0
 68D:\react_projects\project1\node_modules\svgo\plugins\cleanupAttrs.js133566029371122676 0
-82D:\react_projects\project1\node_modules\lightningcss\node\browserslistToTargets.js133566029359897375 0
 85D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\lexer\Lexer.js133566029385204184 0
 110D:\react_projects\project1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133566029382112788 0
 71D:\react_projects\project1\node_modules\caniuse-lite\data\regions\GL.js133566029389788210 0
@@ -2324,6 +2324,7 @@
 62D:\react_projects\project1\node_modules\lightningcss\README.md133566029362543844 0
 77D:\react_projects\project1\node_modules\css-tree\cjs\syntax\node\Selector.cjs133566029380087002 0
 92D:\react_projects\project1\node_modules\caniuse-lite\data\features\css-anchor-positioning.js133566029381720208 0
+82D:\react_projects\project1\node_modules\lightningcss\node\browserslistToTargets.js133566029359897375 0
 76D:\react_projects\project1\node_modules\lightningcss\node\composeVisitors.js133566029360383437 0
 68D:\react_projects\project1\node_modules\lightningcss\node\index.d.ts133566029365051585 0
 66D:\react_projects\project1\node_modules\lightningcss\node\index.js133566029361184043 0
@@ -3027,8 +3028,8 @@
 89D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\generator\index.js133566029384909516 0
 83D:\react_projects\project1\node_modules\csso\node_modules\css-tree\dist\version.cjs133566029381707176 0
 93D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js133566029386489964 0
-96D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133566029386724234 0
 68D:\react_projects\project1\node_modules\@parcel\workers\src\types.js133566029371098109 0
+96D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133566029386724234 0
 94D:\react_projects\project1\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133566029376186309 0
 97D:\react_projects\project1\node_modules\csso\node_modules\css-tree\lib\definition-syntax\index.js133566029384892645 0
 82D:\react_projects\project1\node_modules\caniuse-lite\data\features\css3-cursors.js133566029387222649 0
@@ -4208,6 +4209,7 @@
 87D:\react_projects\project1\node_modules\caniuse-lite\data\features\css-width-stretch.js133566029386982789 0
 87D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js133566029400009672 0
 86D:\react_projects\project1\node_modules\caniuse-lite\data\features\css-writing-mode.js133566029387012942 0
+53D:\react_projects\project1\dist\index.d450439f.js.map133566152026266255 0
 78D:\react_projects\project1\node_modules\caniuse-lite\data\features\css-zoom.js133566029387038543 0
 79D:\react_projects\project1\node_modules\caniuse-lite\data\features\css3-attr.js133566029387058552 0
 85D:\react_projects\project1\node_modules\caniuse-lite\data\features\custom-elements.js133566029387368532 0
@@ -4454,7 +4456,7 @@
 87D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-multi-memory.js133566029399849540 0
 116D:\react_projects\project1\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.js133566029360330405 0
 90D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133566029399907073 0
-42D:\react_projects\project1\dist\index.html133566078199919122 0
+42D:\react_projects\project1\dist\index.html133566163194795184 0
 90D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-reference-types.js133566029399967329 0
 79D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-simd.js133566029400061817 0
 85D:\react_projects\project1\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133566029400095655 0
@@ -5941,5 +5943,6 @@
 53D:\react_projects\project1\node_modules\.bin\svgo.cmd133566029408247071 0
 53D:\react_projects\project1\node_modules\.bin\svgo.ps1133566029408247071 0
 71D:\react_projects\project1\node_modules\.bin\update-browserslist-db.cmd133566029408247071 0
-49D:\react_projects\project1\dist\index.7826abd7.js133566078200716041 0
-53D:\react_projects\project1\dist\index.7826abd7.js.map133566078200926799 0
+49D:\react_projects\project1\dist\index.7826abd7.js133566163195436495 0
+53D:\react_projects\project1\dist\index.7826abd7.js.map133566163195642697 0
+49D:\react_projects\project1\dist\index.d450439f.js133566152026121907 0
